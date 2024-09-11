@@ -1,0 +1,1 @@
+DELETE FROM users1 WHERE user_id = 11;
